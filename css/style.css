@@ -1,0 +1,59 @@
+#banner {
+    background-color: #333;
+    color: white;
+    width: 100%;
+    height: 20px;
+    text-align: right;
+    top: 0;
+}
+
+body {
+    margin: 0 !important;
+}
+
+.MainEntry {
+	width: 85%;
+	height: 325px;
+	display: block;
+	margin: 20px auto;
+}
+
+.imgDiv {
+	float: left;
+	width: 40%;
+	height: 100%;
+
+}
+
+img {
+	width:auto;
+	max-height: 100%;
+}
+
+.infoDiv {
+	float: right;
+	padding-left: 10px;
+	width: 60%;
+	height: 100%;
+}
+
+.SideEntry {
+	width: 95%;
+	height: 200px;
+	margin: 12px 0;
+	overflow: hidden;
+}
+
+.analysisPane{
+	margin: 25px auto;
+	height: 100%;
+	width: 100%;
+}
+
+#moviePoster img{
+	max-height: 450px;
+}
+
+dt{
+	margin-top: 8px;
+}
